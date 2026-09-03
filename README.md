@@ -1,16 +1,178 @@
-## Hi there 👋
+<!-- ============================= -->
+<!--          BANNER SECTION       -->
+<!-- ============================= -->
 
-<!--
-**VedantGokhe/VedantGokhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vedant%20Gokhe&fontSize=48&fontColor=ffffff&animation=fadeIn&subtext=AI%20Engineer%20%7C%20Generative%20AI%20%26%20Data%20Engineering%20%7C%20IIIT%20Lucknow&subfontSize=18&subfontColor=e0e0e0" alt="Vedant Gokhe Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ============================= -->
+<!--          INTRODUCTION         -->
+<!-- ============================= -->
+
+# Hi, I'm Vedant Gokhe 👋  
+**Building production-grade Generative AI systems, Multi-Agent RAG architectures, and scalable Data Pipelines.**
+
+---
+
+<!-- ============================= -->
+<!--             ABOUT ME          -->
+<!-- ============================= -->
+
+## About Me  
+
+I am an **AI Engineer & Generative AI specialist** pursuing my **M.Sc. in Data Science at IIIT Lucknow ('26)**. I specialize in taking cutting-edge language models from research to production — building agentic workflows with LangGraph, fine-tuning open-source LLMs with QLoRA, and designing robust data and ETL pipelines.
+
+With 1+ year of hands-on industry internship experience across **Ambitio**, **Ooumph**, and **Artizence**, I have engineered data monitoring platforms spanning 200k+ profiles, designed autonomous Claude Code & Bedrock agents, and trained domain-specialized LLMs. I am deeply passionate about building AI systems that are reliable, low-latency, and grounded in clean data architectures.
+
+🎓 **Education:** M.Sc. Data Science @ IIIT Lucknow (CGPA: 8.20/10) | B.Sc. Mathematics  
+📍 **Location:** Lucknow, Uttar Pradesh / Nagpur, Maharashtra  
+📬 **Get in touch:** [vedantgokheofficial@gmail.com](mailto:vedantgokheofficial@gmail.com)
+
+---
+
+<!-- ============================= -->
+<!--         TECH & TOOLS          -->
+<!-- ============================= -->
+
+## Tech & Tools  
+
+<p align="center">
+  <!-- GenAI & LLMs -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <br/>
+  <!-- Data Engineering & Big Data -->
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <br/>
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/AWS%20Glue%20%26%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS Glue" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+</p>
+
+---
+
+<!-- ============================= -->
+<!--           MY PROJECTS         -->
+<!-- ============================= -->
+
+## My Projects  
+
+### [1. Continuous-RAG — Enterprise Policy Intelligence System](https://github.com/VedantGokhe)  
+*Multi-agent RAG system using LangGraph, hybrid LLM routing, and continuous document ingestion.*
+
+**Features:**  
+- **Agentic LangGraph Routing:** Orchestrates hybrid models (Groq Llama-3 for ultra-fast generation + Gemini Pro for deep reasoning) delivering definitive `ALLOWED`, `DENIED`, or `CONDITIONAL` verdicts.  
+- **3-Stage Retrieval Pipeline:** Combines BM25 keyword boosting, FAISS dense vector search, and Cross-Encoder reranking for pinpoint context relevance.  
+- **Hash-Based Incremental Indexing:** Detects and indexes updated PDFs without triggering full re-index overhead.  
+- **Automated LLM Evaluation:** Employs Gemini Pro as a synthetic judge, scoring 83% overall on industry benchmark datasets.  
+
+🔗 **Tech Stack:** `Python` • `LangGraph` • `FastAPI` • `FAISS` • `Groq` • `Cross-Encoder` • `React`
+
+---
+
+### [2. Legal Contract Clause Analyzer (NLU + NLG Fine-Tuned LLM)](https://github.com/VedantGokhe/legal-clause-llm)  
+*Fine-tuned 3B LLM specialized on CUAD (41 clause categories) for classification, risk scoring, and text simplification.*
+
+**Features:**  
+- **Unified NLU + NLG Pipeline:** Executes multi-label clause classification, span extraction, risk scoring (`HIGH`/`MEDIUM`/`LOW`), and plain-English text rewriting in a single forward pass (< 2s latency).  
+- **100% Risk Calibration:** Boosted risk assessment accuracy from **0% → 100%** over the base Qwen2.5-3B model on benchmark clauses (eliminating dangerous false `MEDIUM` ratings).  
+- **QLoRA & Unsloth Optimization:** Parameter-efficient fine-tuning on 16,270 instruction-tuning pairs with 4-bit quantization, consuming < 4.2 GB VRAM on a free T4 GPU.  
+- **Production Schema Adherence:** Strictly outputs validated, parseable JSON conforming to downstream legal API requirements.  
+
+🔗 [GitHub Repository](https://github.com/VedantGokhe/legal-clause-llm) | [Hugging Face Model Adapter](https://huggingface.co/Vedant0824/legal-contract-clause-analyzer)  
+**Tech Stack:** `Qwen2.5-3B` • `QLoRA` • `Unsloth` • `PyTorch` • `CUAD Dataset` • `Hugging Face`
+
+---
+
+### [3. StreamLake — Real-Time Stock Market Data Pipeline](https://github.com/VedantGokhe)  
+*End-to-end streaming data lakehouse ingesting, transforming, and querying live financial market feeds.*
+
+**Features:**  
+- **Real-Time Event Streaming:** Ingests live financial market JSON streams using **Apache Kafka** producers and consumers.  
+- **Serverless Glue ETL:** Transforms streaming records into partitioned, snappy-compressed **Parquet** format stored in Amazon S3.  
+- **SQL Lakehouse Analytics:** Catalogs schemas dynamically with AWS Glue Data Catalog, enabling low-latency analytical SQL queries via **Amazon Athena**.  
+
+🔗 **Tech Stack:** `Python` • `Apache Kafka` • `AWS Glue ETL` • `Amazon S3` • `Amazon Athena` • `Parquet` • `SQL`
+
+---
+
+### [4. Automated Job Distribution & Syndication Platform](https://github.com/VedantGokhe)  
+*FastAPI-powered aggregation and syndication platform with dynamic XML feeds and structured SEO validation.*
+
+**Features:**  
+- **High-Throughput Ingestion:** FastAPI backend generating dynamic schema-compliant XML feeds for automated **Indeed** syndication.  
+- **Structured Data Optimization:** Implements Google `JobPosting` schema with automated sitemap indexing and search console integration.  
+
+🔗 **Tech Stack:** `Python` • `FastAPI` • `REST APIs` • `XML Feed Generation` • `SEO Structured Data`
+
+---
+
+<!-- ============================= -->
+<!--           WIP PROJECTS        -->
+<!-- ============================= -->
+
+## Work in Progress  
+
+- **Agentic Code-Review & Evaluation Sidecar** 🎯  
+  *Autonomous multi-agent system providing automated PR reviews, test validation, and semantic regression tracking for GenAI codebases.*  
+
+  **Features in development:**  
+  - Static AST parsing combined with specialized LLM reviewers for security vulnerability and prompt injection checks.  
+  - Automated synthetic test generation with hallucination boundary testing before model deployment.  
+  - GitHub Actions CI/CD integration with automated badge updates.  
+
+---
+
+<!-- ============================= -->
+<!--          CONNECT WITH ME      -->
+<!-- ============================= -->
+
+## Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vedantgokhe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VedantGokhe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:vedantgokheofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/Vedant0824" target="_blank">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+</p>
+
+---
+
+<!-- ============================= -->
+<!--           GITHUB STATS        -->
+<!-- ============================= -->
+
+## GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantGokhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vedant's GitHub stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGokhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantGokhe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+</p>

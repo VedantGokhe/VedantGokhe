@@ -7,15 +7,16 @@
 </p>
 
 <!-- ============================= -->
-<!--      TYPING SVG ANIMATION     -->
+<!--      NAME & TYPING SVG        -->
 <!-- ============================= -->
+
+<h1 align="center">Vedant Gokhe</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=38BDF8&center=true&vCenter=true&width=820&lines=Generative+AI+Engineer+%26+Data+Specialist;1%2B+Year+of+Production-Grade+AI+%26+Data+Engineering+Experience;Designing+%26+Shipping+Production-Grade+GenAI+Systems;M.Sc.+Data+Science+%40+IIIT+Lucknow+('26)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer+%26+Data+Specialist;1%2B+Year+of+Production-Grade+AI+%26+Data+Engineering+Experience;Designing+%26+Shipping+Production-Grade+GenAI+Systems;M.Sc.+Data+Science+%40+IIIT+Lucknow+('26)" alt="Typing SVG" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedantgokhe/" target="_blank">
@@ -37,12 +38,9 @@
 
 ---
 
-<!-- ============================= -->
-<!--          INTRODUCTION         -->
-<!-- ============================= -->
-
-# Vedant Gokhe 👨🏽‍💻  
-**Designing and shipping production-grade GenAI systems, Multi-Agent RAG architectures, and scalable Data Pipelines.**
+<p align="center">
+  <b>Designing and shipping production-grade GenAI systems, Multi-Agent RAG architectures, and scalable Data Pipelines.</b>
+</p>
 
 ---
 
@@ -232,11 +230,16 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=VedantGokhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vedant's GitHub stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=VedantGokhe&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=stars,issues&include_all_commits=true" alt="Vedant's GitHub stats" width="48%" />
   &nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VedantGokhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantGokhe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+</p>
+
+<!-- Green Active Days Contribution Heatmap -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea44f/VedantGokhe" alt="Vedant's Github Contributions" width="94%" />
 </p>

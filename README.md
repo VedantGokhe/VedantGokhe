@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=AI+%26+Data+Engineer;Generative+AI+%26+LLM+Specialist;1%2B+Year+of+Industry+Experience+in+Production;M.Sc.+Data+Science+%40+IIIT+Lucknow+('26);Building+Multi-Agent+RAG+%26+Scalable+Data+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=38BDF8&center=true&vCenter=true&width=820&lines=Generative+AI+Engineer+%26+Data+Specialist;Engineering+Multi-Agent+RAG+Systems+%26+Production+Data+Pipelines;1%2B+Year+of+Production-Grade+AI+%26+Data+Engineering+Experience" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,8 +40,8 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# Hi, I'm Vedant Gokhe 👋  
-**Building production-grade Generative AI systems, Multi-Agent RAG architectures, and scalable Data Pipelines.**
+# 👨‍💻 Vedant Gokhe  
+**Designing and shipping production-grade GenAI systems, Multi-Agent RAG architectures, and scalable Data Pipelines.**
 
 ---
 
@@ -53,12 +53,12 @@
 
 I am an **AI Engineer, Data Engineer & Generative AI specialist** pursuing my **M.Sc. in Data Science at IIIT Lucknow ('26)**. I specialize in taking cutting-edge language models from research to production — architecting autonomous multi-agent workflows with LangGraph, fine-tuning domain-specific LLMs with QLoRA, and engineering robust streaming ETL and data lakehouse pipelines that feed high-signal context into AI systems.
 
-With 1+ year of hands-on industry internship experience across **Ambitio**, **Ooumph**, and **Artizence**, I have engineered data monitoring platforms spanning 200k+ profiles, designed autonomous Claude Code & Bedrock agents, and trained domain-specialized LLMs. I am deeply passionate about building Generative AI systems that are mathematically grounded, low-latency, and backed by dependable data engineering infrastructure.
+With 1+ year of hands-on industry internship experience across **Ambitio**, **Ooumph**, and **Artizence**, I have engineered data monitoring platforms spanning 200k+ profiles, designed autonomous Claude Code & Bedrock agents, and trained domain-specialized LLMs. I care about building GenAI systems that are accurate, low-latency, and backed by solid data infrastructure.
 
 ### 🚀 What I Focus On:
 - 🧠 **Autonomous Multi-Agent & RAG Architectures:** Architecting deterministic, multi-turn agent loops with LangGraph and Claude Code. Implementing hybrid model routing (leveraging low-latency inference like Groq Llama-3 paired with deep reasoning engines like Gemini Pro) and multi-stage RAG incorporating dense vector search (FAISS) and cross-encoder rerankers to eliminate hallucinations.
-- ⚡ **Domain LLM Fine-Tuning:** Parameter-efficient instruction tuning (QLoRA, Unsloth) on open foundation models (Qwen2.5, Llama-3). Specializing in domain classification, risk scoring, and strict schema compliance to ensure LLMs output production-ready JSON.
-- 🛠️ **Data Engineering for AI:** Building event-driven streaming pipelines (Apache Kafka, AWS Glue, Athena) and structured data ingestion systems that ensure clean, low-latency data pipelines for LLM context and model training.
+- ⚡ **Domain LLM Fine-Tuning:** Parameter-efficient instruction tuning (QLoRA, Unsloth) on open foundation models (Qwen2.5, LLaMA models). Specializing in domain classification, risk scoring, and strict schema compliance to ensure LLMs output production-ready JSON.
+- 🛠️ **Data Engineering for AI:** Engineering event-driven streaming pipelines (Apache Kafka, AWS Glue, Athena) and structured data ingestion systems that ensure clean, low-latency data pipelines for LLM context and model training.
 
 🎓 **Education:** M.Sc. Data Science @ IIIT Lucknow (CGPA: 8.20/10) | B.Sc. Mathematics  
 📍 **Location:** Lucknow, Uttar Pradesh / Nagpur, Maharashtra  
@@ -230,9 +230,9 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantGokhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vedant's GitHub stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=VedantGokhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vedant's GitHub stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGokhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VedantGokhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">

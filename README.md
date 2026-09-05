@@ -50,7 +50,7 @@
 
 ## About Me  
 
-I am an **AI Engineer, Data Engineer & Generative AI specialist** who completed his **M.Sc. in Data Science at IIIT Lucknow ('26)**. I specialize in taking cutting-edge language models from research to production — architecting autonomous multi-agent workflows with LangGraph, fine-tuning domain-specific LLMs with QLoRA, and engineering robust streaming ETL and data lakehouse pipelines that feed high-signal context into AI systems.
+I am a **Generative AI Engineer & Data Specialist** with an **M.Sc. in Data Science from IIIT Lucknow ('26)**. I specialize in taking cutting-edge language models from research to production — architecting autonomous multi-agent workflows with LangGraph, fine-tuning domain-specific LLMs with QLoRA, and engineering robust streaming ETL and data lakehouse pipelines that feed high-signal context into AI systems.
 
 With 1+ year of hands-on industry internship experience across **Ambitio**, **Ooumph**, and **Artizence**, I have engineered data monitoring platforms spanning 200k+ profiles, designed autonomous Claude Code & Bedrock agents, and trained domain-specialized LLMs. I care about building GenAI systems that are accurate, low-latency, and backed by solid data infrastructure.
 
@@ -178,22 +178,6 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 🔗 **Tech Stack:** `Python` • `Apache Kafka` • `AWS Glue ETL` • `Amazon S3` • `Amazon Athena` • `Parquet` • `SQL`
 
 </details>
-
----
-
-<!-- ============================= -->
-<!--           WIP PROJECTS        -->
-<!-- ============================= -->
-
-## Work in Progress  
-
-- **Agentic Code-Review & Evaluation Sidecar** 🎯  
-  *Autonomous multi-agent system providing automated PR reviews, test validation, and semantic regression tracking for GenAI codebases.*  
-
-  **Features in development:**  
-  - Static AST parsing combined with specialized LLM reviewers for security vulnerability and prompt injection checks.  
-  - Automated synthetic test generation with hallucination boundary testing before model deployment.  
-  - GitHub Actions CI/CD integration with automated badge updates.  
 
 ---
 

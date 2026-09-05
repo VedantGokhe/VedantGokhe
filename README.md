@@ -59,7 +59,7 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 - ⚡ **Domain LLM Fine-Tuning:** Parameter-efficient instruction tuning (QLoRA, Unsloth) on open foundation models (Qwen2.5, LLaMA models). Specializing in domain classification, risk scoring, and strict schema compliance to ensure LLMs output production-ready JSON.
 - 🛠️ **Data Engineering for AI:** Engineering event-driven streaming pipelines (Apache Kafka, AWS Glue, Athena) and structured data ingestion systems that ensure clean, low-latency data pipelines for LLM context and model training.
 
-🎓 **Education:** M.Sc. in Data Science (Completed) @ IIIT Lucknow (CGPA: 8.20/10) | B.Sc. Mathematics  
+🎓 **Education:** M.Sc. in Data Science @ IIIT Lucknow (CGPA: 8.20/10) | B.Sc. Mathematics  
 📍 **Location:** Lucknow, Uttar Pradesh / Nagpur, Maharashtra  
 📬 **Get in touch:** [vedantgokheofficial@gmail.com](mailto:vedantgokheofficial@gmail.com)
 

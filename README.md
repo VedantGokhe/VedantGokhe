@@ -214,16 +214,11 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=VedantGokhe&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=stars,issues&include_all_commits=true" alt="Vedant's GitHub stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=VedantGokhe&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=stars,issues&include_all_commits=true" alt="Vedant's GitHub stats" height="165" />
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VedantGokhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VedantGokhe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantGokhe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
-</p>
-
-<!-- Green Active Days Contribution Heatmap -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ea44f/VedantGokhe" alt="Vedant's Github Contributions" width="94%" />
 </p>

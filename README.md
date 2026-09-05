@@ -61,7 +61,7 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 
 🎓 **Education:** M.Sc. in Data Science @ IIIT Lucknow (CGPA: 8.20/10) | B.Sc. Mathematics  
 📍 **Location:** Lucknow, Uttar Pradesh / Nagpur, Maharashtra  
-📬 **Get in touch:** [vedantgokheofficial@gmail.com](mailto:vedantgokheofficial@gmail.com)
+📬 **Get in touch:** [vedantgokheofficial@gmail.com](mailto:vedantgokheofficial@gmail.com) | 📞 [+91 8956033640](tel:+918956033640)
 
 ---
 

@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=38BDF8&center=true&vCenter=true&width=820&lines=Generative+AI+Engineer+%26+Data+Specialist;Engineering+Multi-Agent+RAG+Systems+%26+Production+Data+Pipelines;1%2B+Year+of+Production-Grade+AI+%26+Data+Engineering+Experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=38BDF8&center=true&vCenter=true&width=820&lines=Generative+AI+Engineer+%26+Data+Specialist;1%2B+Year+of+Production-Grade+AI+%26+Data+Engineering+Experience;Designing+%26+Shipping+Production-Grade+GenAI+Systems;M.Sc.+Data+Science+%40+IIIT+Lucknow+('26)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# 👨‍💻 Vedant Gokhe  
+# Vedant Gokhe 👨🏽‍💻  
 **Designing and shipping production-grade GenAI systems, Multi-Agent RAG architectures, and scalable Data Pipelines.**
 
 ---
@@ -51,7 +51,7 @@
 
 ## About Me  
 
-I am an **AI Engineer, Data Engineer & Generative AI specialist** pursuing my **M.Sc. in Data Science at IIIT Lucknow ('26)**. I specialize in taking cutting-edge language models from research to production — architecting autonomous multi-agent workflows with LangGraph, fine-tuning domain-specific LLMs with QLoRA, and engineering robust streaming ETL and data lakehouse pipelines that feed high-signal context into AI systems.
+I am an **AI Engineer, Data Engineer & Generative AI specialist** who completed his **M.Sc. in Data Science at IIIT Lucknow ('26)**. I specialize in taking cutting-edge language models from research to production — architecting autonomous multi-agent workflows with LangGraph, fine-tuning domain-specific LLMs with QLoRA, and engineering robust streaming ETL and data lakehouse pipelines that feed high-signal context into AI systems.
 
 With 1+ year of hands-on industry internship experience across **Ambitio**, **Ooumph**, and **Artizence**, I have engineered data monitoring platforms spanning 200k+ profiles, designed autonomous Claude Code & Bedrock agents, and trained domain-specialized LLMs. I care about building GenAI systems that are accurate, low-latency, and backed by solid data infrastructure.
 
@@ -60,7 +60,7 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 - ⚡ **Domain LLM Fine-Tuning:** Parameter-efficient instruction tuning (QLoRA, Unsloth) on open foundation models (Qwen2.5, LLaMA models). Specializing in domain classification, risk scoring, and strict schema compliance to ensure LLMs output production-ready JSON.
 - 🛠️ **Data Engineering for AI:** Engineering event-driven streaming pipelines (Apache Kafka, AWS Glue, Athena) and structured data ingestion systems that ensure clean, low-latency data pipelines for LLM context and model training.
 
-🎓 **Education:** M.Sc. Data Science @ IIIT Lucknow (CGPA: 8.20/10) | B.Sc. Mathematics  
+🎓 **Education:** M.Sc. in Data Science (Completed) @ IIIT Lucknow (CGPA: 8.20/10) | B.Sc. Mathematics  
 📍 **Location:** Lucknow, Uttar Pradesh / Nagpur, Maharashtra  
 📬 **Get in touch:** [vedantgokheofficial@gmail.com](mailto:vedantgokheofficial@gmail.com)
 
@@ -73,25 +73,26 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 ## Tech & Tools  
 
 <p align="center">
-  <!-- GenAI & LLMs -->
+  <!-- Row 1: PYTHON PYTORCH HUGGING FACE LANGGRAPH FAISS -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
   <br/>
-  <!-- Data Engineering & Big Data -->
+  <!-- Row 2: APACHE KAFKA APACHE SPARK QLORA AWS BEDROCK POSTGRESQL -->
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <br/>
-  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/QLoRA-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="QLoRA" />
   <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock" />
-  <img src="https://img.shields.io/badge/AWS%20Glue%20%26%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS Glue" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <br/>
+  <!-- Row 3: AWS GLUE & S3 AIRFLOW DOCKER SNOWFLAKE FASTAPI -->
+  <img src="https://img.shields.io/badge/AWS%20Glue%20%26%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS Glue & S3" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 ---

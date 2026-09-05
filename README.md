@@ -3,7 +3,35 @@
 <!-- ============================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vedant%20Gokhe&fontSize=48&fontColor=ffffff&animation=fadeIn&subtext=AI%20Engineer%20%7C%20Generative%20AI%20%26%20Data%20Engineering%20%7C%20IIIT%20Lucknow&subfontSize=18&subfontColor=e0e0e0" alt="Vedant Gokhe Banner" width="100%" />
+  <img src="./ai.jpg" alt="Vedant Gokhe Banner" width="100%" />
+</p>
+
+<!-- ============================= -->
+<!--      TYPING SVG ANIMATION     -->
+<!-- ============================= -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=AI+%26+Data+Engineer;Generative+AI+%26+LLM+Specialist;1%2B+Year+of+Industry+Experience+in+Production;M.Sc.+Data+Science+%40+IIIT+Lucknow+('26);Building+Multi-Agent+RAG+%26+Scalable+Data+Systems" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedantgokhe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VedantGokhe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/Vedant0824" target="_blank">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  &nbsp;
+  <a href="mailto:vedantgokheofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -23,9 +51,14 @@
 
 ## About Me  
 
-I am an **AI Engineer & Generative AI specialist** pursuing my **M.Sc. in Data Science at IIIT Lucknow ('26)**. I specialize in taking cutting-edge language models from research to production — building agentic workflows with LangGraph, fine-tuning open-source LLMs with QLoRA, and designing robust data and ETL pipelines.
+I am an **AI Engineer, Data Engineer & Generative AI specialist** pursuing my **M.Sc. in Data Science at IIIT Lucknow ('26)**. I specialize in taking cutting-edge language models from research to production — architecting autonomous multi-agent workflows with LangGraph, fine-tuning domain-specific LLMs with QLoRA, and engineering robust streaming ETL and data lakehouse pipelines that feed high-signal context into AI systems.
 
-With 1+ year of hands-on industry internship experience across **Ambitio**, **Ooumph**, and **Artizence**, I have engineered data monitoring platforms spanning 200k+ profiles, designed autonomous Claude Code & Bedrock agents, and trained domain-specialized LLMs. I am deeply passionate about building AI systems that are reliable, low-latency, and grounded in clean data architectures.
+With 1+ year of hands-on industry internship experience across **Ambitio**, **Ooumph**, and **Artizence**, I have engineered data monitoring platforms spanning 200k+ profiles, designed autonomous Claude Code & Bedrock agents, and trained domain-specialized LLMs. I am deeply passionate about building Generative AI systems that are mathematically grounded, low-latency, and backed by dependable data engineering infrastructure.
+
+### 🚀 What I Focus On:
+- 🧠 **Autonomous Multi-Agent & RAG Architectures:** Architecting deterministic, multi-turn agent loops with LangGraph and Claude Code. Implementing hybrid model routing (leveraging low-latency inference like Groq Llama-3 paired with deep reasoning engines like Gemini Pro) and multi-stage RAG incorporating dense vector search (FAISS) and cross-encoder rerankers to eliminate hallucinations.
+- ⚡ **Domain LLM Fine-Tuning:** Parameter-efficient instruction tuning (QLoRA, Unsloth) on open foundation models (Qwen2.5, Llama-3). Specializing in domain classification, risk scoring, and strict schema compliance to ensure LLMs output production-ready JSON.
+- 🛠️ **Data Engineering for AI:** Building event-driven streaming pipelines (Apache Kafka, AWS Glue, Athena) and structured data ingestion systems that ensure clean, low-latency data pipelines for LLM context and model training.
 
 🎓 **Education:** M.Sc. Data Science @ IIIT Lucknow (CGPA: 8.20/10) | B.Sc. Mathematics  
 📍 **Location:** Lucknow, Uttar Pradesh / Nagpur, Maharashtra  
@@ -67,7 +100,45 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 <!--           MY PROJECTS         -->
 <!-- ============================= -->
 
-## My Projects  
+<details open>
+<summary><h2>📘 Featured Projects</h2></summary>
+
+<br/>
+
+<!-- Quick Navigation Cards Grid -->
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/VedantGokhe">Continuous-RAG</a></h3>
+      <p align="center"><i>Autonomous Policy Intelligence</i></p>
+      <p>Multi-agent RAG with LangGraph routing, FAISS dense retrieval, BM25 & cross-encoder reranking.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚖️ <a href="https://github.com/VedantGokhe/legal-clause-llm">Legal Clause LLM</a></h3>
+      <p align="center"><i>Domain Fine-Tuned 3B LLM</i></p>
+      <p>Unified NLU+NLG pipeline on CUAD: 41 clause classification, 100% risk calibration & plain-English rewrites.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Qwen2.5-412991?style=flat-square&logo=huggingface&logoColor=white" />
+        <img src="https://img.shields.io/badge/QLoRA-FF6F00?style=flat-square&logo=pytorch&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌊 <a href="https://github.com/VedantGokhe">StreamLake</a></h3>
+      <p align="center"><i>Real-Time Data Lakehouse</i></p>
+      <p>End-to-end streaming data pipeline ingesting live market feeds into Parquet lakehouse via Glue & Athena.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### [1. Continuous-RAG — Enterprise Policy Intelligence System](https://github.com/VedantGokhe)  
 *Multi-agent RAG system using LangGraph, hybrid LLM routing, and continuous document ingestion.*
@@ -106,16 +177,7 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 
 🔗 **Tech Stack:** `Python` • `Apache Kafka` • `AWS Glue ETL` • `Amazon S3` • `Amazon Athena` • `Parquet` • `SQL`
 
----
-
-### [4. Automated Job Distribution & Syndication Platform](https://github.com/VedantGokhe)  
-*FastAPI-powered aggregation and syndication platform with dynamic XML feeds and structured SEO validation.*
-
-**Features:**  
-- **High-Throughput Ingestion:** FastAPI backend generating dynamic schema-compliant XML feeds for automated **Indeed** syndication.  
-- **Structured Data Optimization:** Implements Google `JobPosting` schema with automated sitemap indexing and search console integration.  
-
-🔗 **Tech Stack:** `Python` • `FastAPI` • `REST APIs` • `XML Feed Generation` • `SEO Structured Data`
+</details>
 
 ---
 

@@ -220,5 +220,5 @@ With 1+ year of hands-on industry internship experience across **Ambitio**, **Oo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantGokhe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantGokhe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>

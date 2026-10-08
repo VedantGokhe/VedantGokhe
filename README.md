@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer+%26+Data+Specialist;1%2B+Year+of+Production-Grade+AI+%26+Data+Engineering+Experience;Designing+%26+Shipping+Production-Grade+GenAI+Systems;M.Sc.+Data+Science+%40+IIIT+Lucknow+('26)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Data+Specialist;1%2B+Year+of+Production-Grade+AI+%26+Data+Engineering+Experience;Designing+%26+Shipping+Production-Grade+GenAI+Systems;M.Sc.+Data+Science+%40+IIIT+Lucknow+('26)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 ## About Me  
 
-I am a **Generative AI Engineer & Data Specialist** with an **M.Sc. in Data Science from IIIT Lucknow ('26)**. I specialize in taking cutting-edge language models from research to production — architecting autonomous multi-agent workflows with LangGraph, fine-tuning domain-specific LLMs with QLoRA, and engineering robust streaming ETL and data lakehouse pipelines that feed high-signal context into AI systems.
+I am a **AI Engineer & Data Specialist** with an **M.Sc. in Data Science from IIIT Lucknow ('26)**. I specialize in taking cutting-edge language models from research to production — architecting autonomous multi-agent workflows with LangGraph, fine-tuning domain-specific LLMs with QLoRA, and engineering robust streaming ETL and data lakehouse pipelines that feed high-signal context into AI systems.
 
 With 1+ year of hands-on industry internship experience across **Ambitio**, **Ooumph**, and **Artizence**, I have engineered data monitoring platforms spanning 200k+ profiles, designed autonomous Claude Code & Bedrock agents, and trained domain-specialized LLMs. I care about building GenAI systems that are accurate, low-latency, and backed by solid data infrastructure.
 
